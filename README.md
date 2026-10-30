@@ -26,7 +26,7 @@ Python 3.10+, FastAPI, Uvicorn, `google-genai` SDK, plain HTML/CSS/JavaScript (n
 **1. Clone and enter the project**
 
 ```bash
-git clone https://github.com/<your-username>/llm-chatbot.git
+git clone https://github.com/PRINCE77-UI/llm-chatbot.git
 cd llm-chatbot
 ```
 
